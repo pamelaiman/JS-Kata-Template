@@ -1,4 +1,4 @@
-import makeCountdownArray from "./countDount";
+import makeCountdownArray from "./countDown";
 
 
 test("COunting down from input number", () => {
